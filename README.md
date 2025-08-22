@@ -35,9 +35,9 @@ jupyter lab
 
 - `notebooks/00_data_overview.ipynb` — Explore and clean the customer dataset
 - `notebooks/01_basic_visualizations.ipynb` — Bar charts, line plots, scatter plots
-- `notebooks/02_advanced_visualizations.ipynb` — Heatmaps, correlations, interactive plots
-- `notebooks/03_insight_generation.ipynb` — Segmentation, trends, and actionable findings
-- `dashboard/` — Streamlit dashboard sample
+- `notebooks/02_basic_visualizations_2.ipynb` — Heatmaps, correlations, tables
+- `notebooks/03_basic_kmeans.ipynb` — Segmentation, trends, and actionable findings
+- `dashboard/` — Streamlit dashboard sample (not-yet part of today's workshop)
 
 ## Datasets
 
