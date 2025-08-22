@@ -13,6 +13,7 @@ Hi guys! We can amplify this repo for today's workshops, which may will help us 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-org-or-username>/customer-behavior-insight-workshop.git
+# example: git clone https://github.com/lihardodicky/explore-with-ssmi.git
 cd customer-behavior-insight-workshop
 ```
 
